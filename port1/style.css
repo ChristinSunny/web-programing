@@ -180,7 +180,9 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  
+  gap: 7em;
+  padding: 30px 12% 0;
+  align-items: center;
 }
 
 .section__text {
@@ -539,13 +541,13 @@ footer p {
     width: 100%;
   }
   
-  .projects-container {
+  .gallery-container {
     display: flex;
     justify-content: center;
     width: 100%;
   }
   
-  .project-item {
+  .gallery-item {
     display: flex;
     justify-content: center;
   }
